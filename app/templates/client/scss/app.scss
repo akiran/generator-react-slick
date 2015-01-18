@@ -1,0 +1,15 @@
+$slick-font-path: "/fonts/";
+$slick-arrow-color: blue;
+
+@import "./normalize";
+@import "slick-carousel/slick/slick";
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
