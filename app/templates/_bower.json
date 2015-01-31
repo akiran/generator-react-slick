@@ -9,6 +9,6 @@
     "tests"
   ],
   "dependencies": {
-    "slick-carousel": "*"
+    "slick-carousel": "1.3.15"
   }
 }
