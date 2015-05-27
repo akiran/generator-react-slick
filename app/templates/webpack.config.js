@@ -12,7 +12,7 @@ module.exports = {
   },
   module: {
     loaders: [
-      {test: /\.js|jsx$/, loaders: ['jsx?harmony']},
+      {test: /\.js|jsx$/, loaders: ['babel']},
     ],
   },
   resolve : {
